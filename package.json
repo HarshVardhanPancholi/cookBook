@@ -1,0 +1,20 @@
+{
+  "name": "cookbook",
+  "description": "Web app where users can create a recipe, and other users on the application can view the posted recipe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshVardhanPancholi/cookBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshVardhanPancholi/cookBook/issues"
+  },
+  "homepage": "https://github.com/HarshVardhanPancholi/cookBook#readme"
+}
